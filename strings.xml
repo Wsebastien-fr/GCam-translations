@@ -30,4 +30,25 @@
     <string name="pref_frames_8">Basse - 8 images</string>
     <string name="pref_frames_15">Moyenne - 15 images</string>
     <string name="pref_frames_25">Elevée - 25 images</string>
+	<string name="pref_manual_option_title">Options manuelles</string>
+    <string name="pref_manual_mode_title">Mode manuel</string>
+    <string name="pref_manual_mode_summary">Activer le mode manuel</string>
+    <string name="pref_shutter_title">Contrôle manuel de l'exposition</string>
+    <string name="pref_shutter_summary">Activer le curseur de vitesse d'obturation</string>
+    <string name="pref_iso_title">Contrôle ISO manuel</string>
+    <string name="pref_iso_summary">Activer le curseur de sensibilité manuelle (EXPERIMENTAL)</string>
+    <string name="pref_black_white_title">Monochrome</string>
+    <string name="pref_black_white_summary">Si l'option est activée, les photos seront en noir et blanc</string>
+    <string name="pref_ehn_awb_title">Pixel AWB en HDR + amélioré</string>
+    <string name="pref_screen_manual_focus_summary">Activer le 2nd et 3ème objectif</string>
+    <string name="pref_max_tripod_title">Augmenter le temps de capture sur trépied</string>
+    <string name="pref_max_tripod_summary">Augmente le nombre d'images et le temps d'exposition si l'appareil est monté de manière stable</string>
+    <string name="libPicker_title">Librairies personnalisées</string>
+    <string name="pref_version">Info</string>
+    <string name="pref_author">GCam 6.2.030 par Urnyx05</string>
+    <string name="pref_base">Basé sur la version de Google Camera</string>
+    <string name="pref_version_number">Version : 2.3</string>
+    <string name="pref_credit">Cette version a été construite par tous ces développeurs</string>
+    <string name="pref_check_version">Vérifier la version</string>
+    <string name="pref_update">Vérifier les mises à jour et le journal des modifications</string>
 </resources>
